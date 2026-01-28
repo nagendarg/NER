@@ -1,0 +1,7 @@
+[2024-04-23 09:39:23,470 - train - INFO] - One GPU or CPU training mode start...
+[2024-04-23 09:39:23,478 - train - INFO] - Dataloader instances created. Train datasets: 1419 samples Validation datasets: 157 samples.
+[2024-04-23 09:39:23,973 - train - INFO] - Model created, trainable parameters: 31069162.
+[2024-04-23 09:39:23,974 - train - INFO] - Optimizer and lr_scheduler created.
+[2024-04-23 09:39:23,974 - train - INFO] - Max_epochs: 200 Log_per_step: 20 Validation_per_step: 5000.
+[2024-04-23 09:39:23,974 - train - INFO] - Training start...
+[2024-04-23 09:39:24,064 - trainer - WARNING] - Training is using GPU 0!

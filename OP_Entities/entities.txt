@@ -1,0 +1,30 @@
+Company_Name	
+  GRAND WXCA
+  FR
+Address	
+  ROOSEVELT FIELD
+  3
+Date	
+  04/25
+  04/25/15
+Time	
+  17:42
+  16:43
+Item_Name	
+  COFFEE
+  CHICKEN PARMESAN
+  PRIME TOP SIRLOIN
+  THE BACON-CHEESE BURGER
+  COFFEE
+Item_Price	
+  2.95
+  17.95
+  25.95
+  13.95
+  2.95
+Total	
+  69,25
+Sub_Total	
+  63.75
+Tax	
+  5.50
